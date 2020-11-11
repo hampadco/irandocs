@@ -1,0 +1,57 @@
+<section id="ecommerce-products" class="row">
+                    
+
+                    @foreach (var item in   ViewBag.product)
+                    {
+                         <div class="card ecommerce-card col-lg-3 col-xl-3 col-md-3 col-sm-6 col-12"
+                        style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                        <div class="card-content alert alert-secondary ">
+                            <div class="item-img text-center">
+                                <a href="/product/details/@item.Id">
+                                    <img  class="alert alert-primary mt-1  img-fluid"  src="~/fileupload/@item.ImageMainPro" alt="img-placeholder" style="height: 250px;width: 250px;" >
+                                </a>
+                            </div>
+                            <div class="card-body">
+                                <div class="item-wrapper text-center">
+                                    <div class="item-rating">
+                                        <div class="btn btn-ouline-primary form-control ">
+                                       
+                                        <a href="/product/details/@item.Id" style="color: black;">
+                                        
+                                           نام محصول:  @item.TitleProductPro 
+                                             </a>
+                                        
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div
+                                    class="item-name text-center mt-1   ">
+                                    
+                                        
+                                        
+                                        
+
+                                </div>
+
+
+                            </div>
+                            <div class="item-options text-center ">
+
+
+
+
+
+                            </div>
+                            
+                        </div>
+                    </div>
+                    }
+
+                   
+                  
+
+
+
+                </section>

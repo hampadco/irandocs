@@ -1,0 +1,70 @@
+<section id="ecommerce-products" class="row">
+                    
+
+                    @foreach (var item in   ViewBag.blog)
+                    {
+                         <div class="card ecommerce-card col-lg-3 col-xl-3 col-md-3 col-sm-6 col-12"
+                        style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                        <div class="card-content alert alert-secondary ">
+                            <div class="item-img text-center">
+                                <a href="/blog/details/@item.Id">
+                                    <img  class="alert alert-primary mt-1  img-fluid"  src="~/fileupload/@item.ImageMainBlo" alt="img-placeholder" style="height: 250px;width: 250px;" >
+                                </a>
+                            </div>
+                            <div class="card-body">
+                                <div class="item-wrapper text-center">
+                                    <div class="item-rating">
+                                        <div class="badge badge-primary badge-md ">
+                                       
+                                         @if (  @item.TitleBLo.Length >=40)
+                                        {
+                                             @item.TitleBLo.Substring(0,40)
+                                        }
+                                        else
+                                        {
+                                             @item.TitleBLo
+
+                                        }
+                                        ...
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div
+                                    class="item-name text-center mt-1   ">
+                                    <a href="app-ecommerce-details.html">
+                                        @if ( @item.SummaryBlo.Length >=100)
+                                        {
+                                            @item.SummaryBlo.Substring(0,100)
+                                        }
+                                        else
+                                        {
+                                            @item.SummaryBlo
+                                        }
+                                        
+                                        ...</a>
+
+                                </div>
+
+
+                            </div>
+                            <div class="item-options text-center ">
+
+
+
+                                <a href="/blog/details/@item.Id" class=""><i class=" "></i> ادامه نوشته ...</a>
+
+
+                            </div>
+                            
+                        </div>
+                    </div>
+                    }
+
+                   
+                  
+
+
+
+                </section>

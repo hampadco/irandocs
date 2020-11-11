@@ -1,0 +1,56 @@
+<section id="ecommerce-products" class="row">
+    @if (ViewBag.agancy != null)
+    {
+        foreach (var item in ViewBag.agancy)
+        {
+            
+                        <div class="card ecommerce-card col-lg-3 col-xl-3 col-md-4 col-sm-6 col-6" style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                            <div class="card-content alert alert-secondary ">
+                                <div class="item-img text-center">
+                                    <a href="/agancy/details/@item.Id">
+                                        <img style="border-radius:50%;width:100px" class="alert alert-primary mt-1  img-fluid" src="~/fileupload/@item.ImageAg" alt="img-placeholder">
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <div class="item-wrapper text-center">
+                                        <div class="item-rating">
+                                            <div class="badge badge-primary badge-md ">
+                                                @item.NameAg
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    >
+                                    
+
+
+                                </div>
+                                <div class="item-options text-center d-xl-block d-lg-block d-md-block d-sm-block d-none">
+
+
+
+                                    <a href="/agancy/details/@item.Id" class="btn btn-outline-dark waves-effect waves-light"><i class="feather icon-user "></i> مشاهده پروفایل</a>
+
+
+                                </div>
+                                <div class="item-options text-center d-xl-none d-lg-none d-md-none d-sm-none d-block">
+
+
+
+                                    <a href="/agancy/details/@item.Id" class="btn btn-outline-dark waves-effect waves-light"><i class="feather icon-user "></i> پروفایل</a>
+
+                                </div>
+                            </div>
+                        </div>
+        }
+    }
+
+
+
+                       
+                </section>
+
+
+
+<!-- Dashboard Analytics end -->
+

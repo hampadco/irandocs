@@ -1,0 +1,32 @@
+<section id="basic-examples">
+  <div class="row match-height">
+
+@if (ViewBag.gallery != null)
+{
+    foreach (var item in ViewBag.gallery)
+    {
+      <div class="col-xl-4 col-md-6 col-sm-12">
+      <div class="card" style="">
+        <div class="card-content">
+          <img class="card-img-top img-fluid" src="~/fileupload/@item.pathImage" alt="Card image cap">
+          <div class="card-body ">
+            
+            <p class="card-text  mb-0 form-control">@item.TitleGal</p>
+            
+            <div class="card-btns d-flex justify-content-between mt-2">
+              
+              <a href="/gallery/details/@item.Id" class="btn btn-outline-primary waves-effect waves-light form-control">نمایش همه</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    }
+}
+
+    
+    
+    <!-- Profile Cards Ends -->
+  </div>
+</section>

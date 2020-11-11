@@ -1,0 +1,26 @@
+<section id="basic-examples">
+  <div class="row match-height">
+
+
+@if (ViewBag.gallery != null)
+{
+    foreach (var item in ViewBag.gallery)
+    {
+      <div class="col-xl-4 col-md-6 col-sm-12">
+      <div class="card" style="">
+        <div class="card-content">
+          <img class="card-img-top img-fluid" src="~/fileupload/@item.ImagePath" alt="Card image cap">
+          <div class="card-body">
+            
+            <p class="card-text  mb-0">سون استار</p>
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    }
+}
+ </div>
+</section>

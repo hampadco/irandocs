@@ -1,0 +1,982 @@
+﻿<!-- BEGIN: Vendor CSS-->
+<link rel="stylesheet" type="text/css" href="..\..\..\app-assets\vendors\css\vendors-rtl.min.css">
+<link rel="stylesheet" type="text/css" href="..\..\..\app-assets\vendors\css\extensions\swiper.min.css">
+<!-- END: Vendor CSS-->
+
+<!-- BEGIN: Page CSS-->
+<link rel="stylesheet" type="text/css" href="..\..\..\app-assets\css-rtl\core\menu\menu-types\horizontal-menu.min.css">
+<link rel="stylesheet" type="text/css" href="..\..\..\app-assets\css-rtl\core\colors\palette-gradient.min.css">
+<link rel="stylesheet" type="text/css" href="..\..\..\app-assets\css-rtl\plugins\extensions\swiper.min.css">
+<!-- END: Page CSS-->
+
+
+
+
+
+
+@* //////////////////////////////////////////////////////////////////////////////// slider *@
+
+
+<!-- default swiper start -->
+
+<div class="swiper-default swiper-container">
+
+
+</div>
+
+<!-- default swiper ends -->
+
+
+
+
+
+
+
+
+<!-- gallery swiper start -->
+<section id="component-swiper-gallery">
+    <div class="card ">
+
+        <div class="card-content">
+            <div class="card-body">
+                <div class="swiper-gallery swiper-container gallery-top">
+                    <div class="swiper-wrapper">
+                        @if ( ViewBag.slider != null)
+                        {
+                        @foreach (var item in ViewBag.slider)
+                        {
+                        <div class="swiper-slide">
+                            <a href="/product/details/@item.CategoryProductIdSlid">
+                                <img class="img-fluid" src="~/fileupload/@item.ImageMainSlid" alt="banner"></a>
+                        </div>
+                        }
+                        }
+                        else{
+                        <div class="swiper-slide"> <img class="img-fluid"
+                                src="..\..\..\app-assets\images\banner\banner-11.jpg" alt="banner">
+                        </div>
+                        }
+
+
+
+                    </div>
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+                <div class="swiper-container gallery-thumbs">
+                    <div class="swiper-wrapper mt-25">
+
+
+                        @if ( ViewBag.slider != null)
+                        {
+                        @foreach (var item in ViewBag.slider)
+                        {
+                        <div class="swiper-slide"> <img class="img-fluid" src="~/fileupload/@item.ImageMainSlid"
+                                alt="banner">
+                        </div>
+                        }
+                        }
+                        else{
+                        <div class="swiper-slide"> <img class="img-fluid"
+                                src="..\..\..\app-assets\images\banner\banner-11.jpg" alt="banner">
+                        </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- gallery swiper ends -->
+<!-- coverflow effect swiper start -->
+<section id="component-swiper-coverflow">
+    <div class="card ">
+
+        <div class="card-content">
+            <div class="card-body">
+                <div class="swiper-coverflow swiper-container">
+                    <div class="swiper-wrapper">
+
+                        @if ( ViewBag.baner != null)
+                        {
+                        @foreach (var item in ViewBag.baner)
+                        {
+
+
+
+                        <div class="swiper-slide ">
+                            <a href="/product/details/@item.CategoryProductIdSlid">
+                                <img class="img-fluid" src="~/fileupload/@item.ImageMainSlid" alt="banner">
+                            </a>
+
+                        </div>
+                        }
+                        }
+                        else{
+                        <div class="swiper-slide"> <img class="img-fluid"
+                                src="..\..\..\app-assets\images\banner\banner-35.jpg" alt="banner">
+                        </div>
+                        }
+
+
+
+
+
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- coverflow effect swiper ends -->
+
+
+<!-- parallax swiper start -->
+@* ////////////////////////////////////////////////////////////////////////////////end slider *@
+
+    <div class="row match-height">
+        @if (ViewBag.first != null)
+        {
+        foreach (var item in ViewBag.first)
+        {
+
+        <div class="col-lg-6 col-12">
+            <div class="card">
+                <div class=" text-center mt-2 mb-2">
+                    <h4 class="alert alert-primary">@item.TitleBLo</h4>
+                </div>
+                <div class="row " style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                    <div class="col-lg-6 col-xl-6 col-md-6 col-sm-12 col-12 text-center"
+                        style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                        <img src="~/fileupload/@item.ImageMainBlo" alt="Alternate Text"
+                            style="height: 300px;width: 300px;border-radius: 20px;" />
+                    </div>
+                    <div class="col-lg-6 col-xl-6 col-md-6 col-sm-12 col-12 alert alert-primary"
+                        style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                        @if ( @item.SummaryBlo.Length >=320)
+                        {
+                        <p style="text-align: justify;line-height: 40px;color:black">@item.SummaryBlo.Substring(0,320)..
+                        </p>
+                        }
+                        else
+                        {
+                        <p style="text-align: justify;line-height: 40px;color:black"> @item.SummaryBlo ..</p>
+                        }
+
+
+
+                        <a href="/blog/details/@item.Id" class=""><i class=" "></i> ادامه نوشته ...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        }
+        }
+
+
+
+    </div>
+    
+
+<div class=" text-center">
+
+
+    <h3 class="text-center">
+        <p style="vertical-align: inherit;">
+        <p style="vertical-align: inherit;">تیزرها و ویدیوها</p>
+        </p>
+        </h1>
+        <br>
+</div>
+
+<section id="ecommerce-products" class="row">
+
+
+    @foreach (var item in ViewBag.Teaser)
+    {
+    <div class="card ecommerce-card col-lg-4 col-xl-4 col-md-4 col-sm-6 col-12"
+        style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+        <div class="card-content alert alert-secondary ">
+            <div class="item-img text-center">
+                <a href="/teaser/details/@item.Id">
+                    <img class=" mt-1  img-fluid" src="~/app-assets/images/icons/playicon.png" alt="img-placeholder"
+                        style="border-radius: 50%;">
+                </a>
+            </div>
+            <div class="card-body">
+                <div class="item-wrapper text-center">
+                    <div class="item-rating">
+                        <div class="badge badge-primary badge-md ">
+
+
+                            @item.TitleTeaser
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+            <div class="item-options text-center ">
+
+
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+    }
+
+
+
+
+
+</section>
+
+
+
+<section id="component-swiper-responsive-breakpoints">
+  <div class="card">
+    <div class=" mt-2 mb-2 alert alert-primary text-center">
+      <h4 class=" text-center">محصولات</h4>
+    </div>
+    <div class="card-content" style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+      <div class="card-body">
+        <div class="swiper-responsive-breakpoints swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-rtl">
+          <div class="swiper-wrapper" style="transform: translate3d(917.4px, 0px, 0px); transition-duration: 0ms;">
+
+          @if (ViewBag.product != null)
+          {
+              foreach (var item in ViewBag.product)
+              {
+                   <div class="swiper-slide text-center" style="width: 255.8px; ">
+                         <a href="/product/details/@item.Id" >
+                        <img class="img-fluid alert alert-primary" src="~/fileupload/@item.ImageMainPro" alt="banner" style="border-radius: 50%;height: 200px;width: 200px;" >
+                       </a>
+                   <p  class="btn btn-outline-primary form-control">
+                  
+                     <a href="/product/details/@item.Id">
+                       @item.TitleProductPro
+                     </a>
+                   </p>
+             </div>
+                  
+              }
+              
+          }
+             
+            
+            
+           
+          </div>
+          <!-- Add Pagination -->
+          <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Dashboard Analytics Start -->
+<section id="dashboard-analytics">
+
+    <div class="row">
+
+
+        <div class="col-lg-6 col-md-12 col-sm-12">
+
+            <div class="card bg-analytics text-white alert alert-primary">
+                <div class="card-content">
+                    <div class="card-body text-center">
+
+                        <div class="  mt-2">
+                            <div class="">
+                                <h2 class="mb-2 alert  alert-primary " style="color:black !important">
+                                    جستجو در محصولات </h2>
+                            </div>
+                        </div>
+                        <img src="../app-assets/images/icons/sideleft.png" class="img-left" alt="
+            card-img-left" style="z-index:-1">
+                        <div class="text-center mt-2">
+                            <input id="myInput" autocomplete="off" class="form-control"
+                                placeholder="عنوان محصول  را وارد کنید.." />
+                        </div>
+                        <div class="text-center mt-2">
+
+                            <button onclick="search();" class="btn btn-flat-black"
+                                style="background-color:#E2E2E5 !important"><i class="feather icon-search "></i> جستجو
+                                در محصولات</button>
+                            <script>
+
+                                function search() {
+                                    if ($("#myInput").val() != "") {
+                                        window.location.href = "/Home/Location_Jobs?txt=" + $("#myInput").val();
+                                    }
+
+                                }
+                            </script>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12">
+
+            <div class="card bg-analytics text-white alert alert-primary">
+                <div class="card-content">
+                    <div class="card-body text-center">
+
+                        <div class="  mt-2">
+                            <div class="">
+                                <h1 class="mb-2 alert alert-primary " style="color:black !important">
+                                    جستجو در وبلاگ</h1>
+                            </div>
+                        </div>
+                        <img src="../app-assets/images/icons/sideleft.png" class="img-left" alt="card-img-left"
+                            style="z-index:-1">
+                        <div class="text-center mt-2">
+                            <input autocomplete="off" id="myInput2" class="form-control"
+                                placeholder="عنوان خبر را وارد کنید.." />
+                        </div>
+                        <div class="text-center mt-2">
+
+                            <button onclick="search4()" class="btn btn-flat-black mt-xl-0 mt-lg-0 mt-md-0 mt-sm-0 mt-1"
+                                style="background-color:#E2E2E5 !important">جستجوی در خبر<i
+                                    class="feather icon-search"></i> </button>
+                        </div>
+                        <script>
+
+
+                            function search4() {
+                                if ($("#myInput2").val() != "") {
+                                    window.location.href = "/home/list_work?txt=" + $("#myInput2").val();
+                                }
+
+                            }
+                        </script>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="row">
+        <div class="col-lg-3 col-sm-6 col-6">
+            <div class="card">
+                <div class="card-header d-flex align-items-start pb-0">
+                    <div>
+                        <h2 class="text-bold-700 mb-0 text-center">1125</h2>
+                        <p>تعداد کل تیکت ها </p>
+                    </div>
+                    <div class="avatar bg-rgba-primary p-50 m-0">
+                        <div class="avatar-content">
+                            <i class="feather icon-message-square text-warning font-medium-5"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 col-6">
+            <div class="card">
+                <div class="card-header d-flex align-items-start pb-0">
+                    <div>
+                        <h2 class="text-bold-700 mb-0 text-center">1002</h2>
+                        <p>تعداد درخواست ها</p>
+                    </div>
+                    <div class="avatar bg-rgba-success p-50 m-0">
+                        <div class="avatar-content">
+                            <i class="feather icon-users text-primary font-medium-5"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 col-6">
+            <div class="card">
+                <div class="card-header d-flex align-items-start pb-0">
+                    <div>
+                        <h2 class="text-bold-700 mb-0 text-center">2127</h2>
+                        <p>تعداد کل سفارشات</p>
+                    </div>
+                    <div class="avatar bg-rgba-danger p-50 m-0">
+                        <div class="avatar-content">
+                            <i class="feather icon-shopping-cart text-danger font-medium-5"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 col-6">
+            <div class="card">
+                <div class="card-header d-flex align-items-start pb-0">
+                    <div>
+                        <h2 class="text-bold-700 mb-0 text-center">15000</h2>
+                        <p>تعداد کل جستجو</p>
+                    </div>
+                    <div class="avatar bg-rgba-warning p-50 m-0">
+                        <div class="avatar-content">
+                            <i class="feather icon-search text-primary font-medium-5"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+   
+
+
+
+
+    <div class=" text-center">
+
+        <img src="~/app-assets/images/icons/alert.png" />
+        <h3 class="text-center">
+            <p style="vertical-align: inherit;">
+            <p style="vertical-align: inherit;"> آخرین مطالب و اخبار شرکت</p>
+            </p>
+            </h1>
+            <br>
+    </div>
+
+
+
+    <section id="ecommerce-products" class="row">
+
+
+        @foreach (var item in ViewBag.blog)
+        {
+        <div class="card ecommerce-card col-lg-3 col-xl-3 col-md-3 col-sm-6 col-12"
+            style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+            <div class="card-content alert alert-secondary ">
+                <div class="item-img text-center">
+                    <a href="/blog/details/@item.Id">
+                        <img class="alert alert-primary mt-1  img-fluid" src="~/fileupload/@item.ImageMainBlo"
+                            alt="img-placeholder" style="height: 250px;width: 250px;border-radius: 50%;">
+                    </a>
+                </div>
+                <div class="card-body">
+                    <div class="item-wrapper text-center">
+                        <div class="item-rating">
+                            <div class="badge badge-primary badge-md ">
+
+                                @if ( @item.TitleBLo.Length >=40)
+                                {
+                                @item.TitleBLo.Substring(0,40)
+                                }
+                                else
+                                {
+                                @item.TitleBLo
+
+                                }
+                                ...
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="item-name text-center mt-1   ">
+                        <a href="#">
+                            @if ( @item.SummaryBlo.Length >=100)
+                            {
+                            @item.SummaryBlo.Substring(0,100)
+                            }
+                            else
+                            {
+                            @item.SummaryBlo
+                            }
+
+                            ...</a>
+
+                    </div>
+
+
+                </div>
+                <div class="item-options text-center ">
+
+
+
+                    <a href="/blog/details/@item.Id" class=""><i class=" "></i> ادامه نوشته ...</a>
+
+
+                </div>
+
+            </div>
+        </div>
+        }
+
+
+
+
+
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="row match-height justify-content-center mt-2  ">
+        <div class="col-lg-10 col-12  text-center">
+
+            <section id="timeline-card">
+
+                <div class="row ">
+                    @if (ViewBag.address != null)
+                    {
+                    @foreach (var item in ViewBag.address)
+                    {
+                    <div class="col-lg-6 col-sm-12">
+                        <div class="card">
+
+                            <div class="card-content">
+                                <div class="card-body">
+                                    <ul class="activity-timeline timeline-left list-unstyled">
+
+                                        <li>
+                                            <div class="timeline-icon bg-warning">
+                                                <i class="feather icon-check font-medium-2"></i>
+                                            </div>
+                                            <div class="timeline-info">
+                                                <p class="font-weight-bold" style="text-align: right;">
+                                                    شماره تماس های ثابت :</p>
+                                                <br>
+
+
+                                                <div
+                                                    class="col-lg-12 d-lg-block  text-center align-self-center px-1 py-0">
+
+
+                                                    <div class="footer-btn alert alert-primary  ">
+
+                                                        <a href="tel:@item.Officetel1Ad"
+                                                            class="btn btn-primary col-12 text-white  waves-effect waves-light"><span
+                                                                class="feather icon-phone-call mr-1"></span> شماره تماس
+                                                            ثابت اول :@item.Officetel1Ad</a>
+                                                        @if (@item.Officetel2Ad != null)
+                                                        {
+                                                        <a href="tel:@item.Officetel2Ad"
+                                                            class="btn btn-primary col-12 text-white  waves-effect waves-light mt-2"><span
+                                                                class="feather icon-phone-call mr-1"></span> شماره تماس
+                                                            ثابت اول :@item.Officetel2Ad</a>
+                                                        }
+                                                    </div>
+                                                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            </div>
+
+                                        </li>
+
+                                        <li>
+                                            <div class="timeline-icon bg-primary">
+                                                <i class="feather icon-check font-medium-2"></i>
+                                            </div>
+                                            <div class="timeline-info">
+                                                <p class="font-weight-bold" style="text-align: right;">
+                                                    شماره تماس های همراه :</p>
+                                                <br>
+                                                <p style="text-align: ;line-height: 50px;font-size: 20px;">
+                                                    <a style="text-align: ;line-height: 50px;font-size: 20px;"
+                                                        href="tel:@item.Tel1Ad">
+                                                        <b class="btn btn-primary btn-lg">@item.Tel1Ad</b>
+                                                        <i class="fa fa-phone"></i>
+                                                    </a>
+                                                    @if (@item.Tel2Ad != null)
+                                                    {
+                                                    <a style="text-align: ;line-height: 50px;font-size: 20px;"
+                                                        href="tel:@item.Tel2Ad">
+                                                        <b class="btn btn-primary btn-lg">@item.Tel2Ad</b>
+                                                        <i class="fa fa-phone"></i>
+                                                    </a>
+                                                    }
+
+
+                                            </div>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-12">
+                        <div class="card">
+
+                            <div class="card-content">
+                                <div class="card-body">
+                                    <ul class="activity-timeline timeline-left list-unstyled">
+                                        <li>
+                                            <div class="timeline-icon bg-success">
+                                                <i class="feather icon-check font-medium-2"></i>
+                                            </div>
+                                            <div class="timeline-info">
+                                                <p class="font-weight-bold" style="text-align: right;"> آدرس
+                                                    ها :</p>
+                                                <br>
+
+                                                <div class="footer-btn alert alert-primary  ">
+
+                                                    <a href=""
+                                                        class="btn btn-primary col-12 text-white  waves-effect waves-light"><span
+                                                            class="feather icon-map-pin mr-1"
+                                                            style="line-height: 30px;"></span> آدرس اول :
+                                                        @item.FirstAddress</a>
+                                                    @if (@item.SecondAddress != null)
+                                                    {
+                                                    <a href=""
+                                                        class="btn btn-primary col-12 text-white  waves-effect waves-light mt-2 "
+                                                        style="line-height: 30px;"><span
+                                                            class="feather icon-map-pin mr-1"></span> آدرس دوم
+                                                        :@item.SecondAddress</a>
+                                                    }
+                                                </div>
+
+
+                                            </div>
+
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    }
+                    }
+
+                </div>
+            </section>
+        </div>
+
+    </div>
+    @* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////sobhan *@
+
+@* <section id="overlay-image-chat-cards">
+          <div class="row">
+
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <div class="card overlay-img-card text-white">
+                <img src="..\..\..\app-assets\images\pages\img.jpg" class="card-img" alt="card-img-6" style="height: 600px;">
+                <div class="card-img-overlay overlay-black">
+                  <h5 class="font-medium-5 text-white text-center  text-white">محاسبه شاخص توده بدنی</h5>
+                  <p class="text-white text-center text-s">شاخص توده بدنی خودتو بدون</p>
+                  <div class="card-content">
+                    <div class="d-flex justify-content-center mt-2">
+                      <fieldset class="form-group mr-3">
+                     
+                        <input type="text" id="sum2" class="form-control" placeholder="قد">
+                        <p><small class="text-muted">قد خود را به سانتی متر وارد نمایید </small></p>
+                      </fieldset>
+
+                      <fieldset class="form-group">
+                       
+                        <input type="text" id="sum" class="form-control" placeholder="وزن">
+                        <p><small class="text-muted">وزن خود را به کیلوگرم وارد نمایید </small></p>
+                      </fieldset>
+                    </div>
+                    <ul>
+                      <p class="m-0 text-warning">اگر BMI شما :</p>
+                    <li>زیر ۱۸.۵ باشد، شخص دچار کاهش وزن است.</li>
+                    <li>بین ۱۸.۵ و ۲۴.۹ باشد، شخص در بازه ی وزن سالم به سر می برد.</li>
+                    <li>بین ۲۵ و ۲۹.۹ باشد، شخص اضافه وزن دارد.</li>
+                    <li>بین ۳۰ و ۳۹.۹ باشد، شخص از چاقی مفرط رنج می برد.</li>
+                  </ul>
+                    <div class="card-body col-md-12" style="text-align: center;">
+                      <button class="btn  btn-primary  waves-effect waves-light" onclick="demo()">Result</button>
+                      <br>
+                      <br>
+                      <label id="resultm" class="text-white" style="font-size:medium;">28</label> : Your BMI Is 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+
+<script>
+          function demo()
+          {
+             var sm = document.getElementById("sum").value/(Math.pow(document.getElementById("sum2").value , 2))*10000;
+             document.getElementById("resultm").innerHTML=Math.round(sm);
+          }
+       </script>
+ <h3 class="text-center mt-4 alert alert-primary">برنامه 30 روزه برای  مبتدی ها</h3>
+
+<div class="row" id="table-striped-dark">
+              <div class="col-12">
+                  <div class="card">
+                     
+                      <div class="card-content">
+                          <div class="card-body">
+                          </div>
+                          <div class="table-responsive">
+                              <table class="table table-striped  mb-0" style="background-color: #736bccd6;color:white">
+                                  <thead>
+                                      <tr>
+                                        <th></th>
+                                          <th>شنبه</th>
+                                          <th class="d-xl-block d-lg-block d-md-block d-sm-none d-none">یک شنبه</th>
+                                          <th>دو شنبه</th>
+                                          <th class="d-xl-block d-lg-block d-md-block d-sm-none d-none">سه شنبه</th>
+                                          <th>چهار شنبه</th>
+                                          <th class="d-xl-block d-lg-block d-md-block d-sm-none d-none">پنج شنبه</th>
+                                      </tr>
+                                  </thead>
+                                  <tbody>
+                                      <tr>
+                                        <th>حرکت 1 </th>
+                                      <td scope="row">پرس بالا سینه دمبل 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <td scope="row">پرس بالا سینه دمبل 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <td scope="row">پرس بالا سینه دمبل 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      
+                                  </tr>
+                                  <tr>
+                                    <th>حرکت 2</th>
+                                      <td scope="row">سرشانه پرس الاکلنگی دمبل ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <td scope="row">سرشانه پرس الاکلنگی دمبل ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <th scope="row">سرشانه پرس الاکلنگی دمبل ایستاده 12-12 <br> <br>استراحت 90 ثانیه</th>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      
+                                  </tr>
+                                  <tr>
+                                    <th>حرکت 3</th>
+                                      <td scope="row">زیربغل تک  دمبل خم 1-12 <br> <br>استراحت 90 ثانیه <br>برای هر دست</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <td scope="row">سرشانه پرس الاکلنگی دمبل ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      <td scope="row">سرشانه پرس الاکلنگی دمبل ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                      <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                      
+                                  </tr>
+                                  <tr>
+                                    <th>حرکت 4</th>
+                                  <td scope="row">پشت بازو هالتر پرس دست جمع 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                  <td scope="row">پشت بازو هالتر پرس دست جمع 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                  <td scope="row">پشت بازو هالتر پرس دست جمع 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                    
+                                </tr>
+                                <tr>
+                                  <th>حرکت 5</th>
+                                  <td scope="row">جلو بازو چکشی  دمبل جفت دست ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                  <td scope="row">جلو بازو چکشی  دمبل جفت دست ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                  <td scope="row">جلو بازو چکشی  دمبل جفت دست ایستاده 12-12 <br> <br>استراحت 90 ثانیه</td>
+                                  <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                  
+                              </tr>
+                              <tr>
+                                <th>حرکت 6</th>
+                                <td scope="row">اسکوات بلغاری با صندلی  (وزن بدن) <br> <br>استراحت 90 ثانیه <br> برای هر پا</td>
+                                <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                <td scope="row">اسکوات بلغاری با صندلی  (وزن بدن) <br> <br>استراحت 90 ثانیه <br> برای هر پا</td>
+                                <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                <td scope="row">اسکوات بلغاری با صندلی  (وزن بدن) <br> <br>استراحت 90 ثانیه <br> برای هر پا</td>
+                                <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                                
+                            </tr>
+                            <tr>
+                              <th>حرکت 7</th>
+                              <td scope="row">پلانک ثابت    (وزن بدن ) <br> <br>استراحت 90 ثانیه <br></td>
+                              <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                              <td scope="row">پلانک ثابت    (وزن بدن ) <br> <br>استراحت 90 ثانیه <br></td>
+                              <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                              <td scope="row">پلانک ثابت    (وزن بدن ) <br> <br>استراحت 90 ثانیه <br></td>
+                              <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                              
+                          </tr>
+                          <tr>
+                            <th>حرکت 8</th>
+                            <td scope="row">سرد کردن  1-20</td>
+                            <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                            <td scope="row">سرد کردن  1-20</td>
+                            <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                            <td scope="row">سرد کردن  1-20</td>
+                            <td class="d-xl-block d-lg-block d-md-block d-sm-none d-none">----</td>
+                            
+                        </tr>
+                              </tbody>
+                          </table>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+</section> *@
+
+
+
+    @* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////sobhan *@
+
+
+<div class=" text-center ">
+
+      
+        <h3 class="text-center">
+            <p style="vertical-align: inherit;">
+            </p>
+            <p class="alert alert-primary" style="vertical-align: inherit;">   لیست کارشناسان و مربیان</p>
+            <p></p>
+            </h3>
+            <br>
+    </div>
+
+<section id="ecommerce-products" class="row">
+    @{
+          if (ViewBag.expert != null)
+    {
+        foreach (var item in ViewBag.expert)
+        {
+            
+                        <div class="card ecommerce-card col-lg-3 col-xl-3 col-md-4 col-sm-6 col-6" style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                            <div class="card-content alert alert-secondary ">
+                                <div class="item-img text-center">
+                                    <a href="/expert/details/@item.Id">
+                                        <img style="border-radius:50%;width:100px" class="alert alert-primary mt-1  img-fluid" src="~/fileupload/@item.ImageEx" alt="img-placeholder">
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <div class="item-wrapper text-center">
+                                        <div class="item-rating">
+                                            <div class="badge badge-primary badge-md ">
+                                                @item.NameEx
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    
+                                    
+
+
+                                </div>
+                                <div class="item-options text-center d-xl-block d-lg-block d-md-block d-sm-block d-none">
+
+
+
+                                    <a href="/expert/details/@item.Id" class="btn btn-outline-dark waves-effect waves-light"><i class="feather icon-user "></i> مشاهده پروفایل</a>
+
+
+                                </div>
+                                <div class="item-options text-center d-xl-none d-lg-none d-md-none d-sm-none d-block">
+
+
+
+                                    <a href="/expert/details/@item.Id" class="btn btn-outline-dark waves-effect waves-light"><i class="feather icon-user "></i> پروفایل</a>
+
+                                </div>
+                            </div>
+                        </div>
+        }
+    }
+
+
+
+    }
+  
+
+
+
+                       
+                </section>
+
+
+
+<!-- Dashboard Analytics end -->
+
+
+<!-- BEGIN: Vendor JS-->
+<script src="..\..\..\app-assets\vendors\js\vendors.min.js"></script>
+<!-- BEGIN Vendor JS-->
+
+<!-- BEGIN: Page Vendor JS-->
+<script src="..\..\..\app-assets\vendors\js\ui\jquery.sticky.js"></script>
+<script src="..\..\..\app-assets\vendors\js\extensions\swiper.min.js"></script>
+<!-- END: Page Vendor JS-->
+
+
+
+<!-- BEGIN: Page JS-->
+<script src="..\..\..\app-assets\js\scripts\extensions\swiper.min.js"></script>
+<!-- END: Page JS-->

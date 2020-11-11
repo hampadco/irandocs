@@ -1,0 +1,348 @@
+
+@model ViewModels.AdminViewModel.Product.Vm_Product
+<section id="timeline-card">
+
+    <div class="row ">
+
+
+        <div class="col-lg-6 col-sm-12">
+            <div class="card" >
+
+                <div class="card-content">
+                    <div class="card-body">
+                        <ul class="activity-timeline timeline-left list-unstyled">
+
+                            <li>
+                                <div class="timeline-icon bg-warning">
+                                    <i class="feather icon-check font-medium-2"></i>
+                                </div>
+                                <div class="timeline-info">
+                                    <p class="font-weight-bold mt-2 mb-2" style="text-align: center;font-size: 18px;line-height: 40px;">
+                                      عنوان محصول : @Model.TitleProductPro </p>
+                                    <br>
+
+
+                                    <div class="col-lg-12 d-lg-block  text-center align-self-center px-1 py-0">
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                            برند محصول:@Model.BrandPro
+                                            
+                                        </div>
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                             تعداد در بسته:                         @Model.TotalPro
+                                            
+                                        </div>
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                             سایز:@Model.SizePro
+                                            
+                                        </div>
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                             جنس:@Model.MaterialPro
+                                            
+                                        </div>
+
+                                        <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                            قیمت محصول:@Model.PricePro
+                                            
+                                        </div>
+
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                            درصد تخفیف:@Model.OfferPro
+                                            
+                                        </div>
+                                         <div class="footer-btn alert alert-primary text-center  " style="line-height: 40px;font-size: 18px;text-align: justify;">
+
+                                           <a href="" class="btn btn-primary form-control">اضافه کردن به سبد خرید</a>
+                                            
+                                        </div>
+                                        
+                                        
+                                    </div>
+
+                                </div>
+
+                            </li>
+
+                            <li>
+                             
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-sm-12">
+            <div class="card" >
+
+                <div class="card-content">
+                    <div class="card-body">
+                        <ul class="activity-timeline timeline-left list-unstyled" style="margin-right: 0px !important;">
+                            <li>
+                                <div class="timeline-icon bg-success">
+                                    <i class="feather icon-check font-medium-2"></i>
+                                </div>
+                                <div class="timeline-info">
+                                    <p class="font-weight-bold" style="text-align: center;"> عکس محصول
+                                      </p>
+                                    <br>
+
+                                    <div class="footer-btn alert alert-primary text-center text-center ">
+
+                                        <img src="~/fileupload/@Model.ImageMainPro" alt=""   >
+                                    </div>
+
+
+                                </div>
+
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+<section id="ecommerce-products" class="row">
+
+@if ( ViewBag.baner != null)
+                        {
+                        @foreach (var item in ViewBag.baner)
+                        {
+
+
+
+
+    <div class="card ecommerce-card col-lg-4 col-xl-4 col-md-4 col-sm-6 col-12" style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+        <div class="card-content alert alert-secondary ">
+            <div class="item-img text-center">
+               
+                    <img class=" mt-1  img-fluid" src="~/fileupload/@item.ImagePath" alt="img-placeholder" style="width: 250px;">
+                
+            </div>
+            <div class="card-body">
+                <div class="item-wrapper text-center">
+                    <div class="item-rating">
+                        <div class="badge badge-primary badge-md ">
+
+
+                            @menu.Title
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+            <div class="item-options text-center ">
+
+
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+   
+  }
+                        }
+
+
+
+
+
+
+</section>
+    
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    img{
+        max-width: 50%;
+  height: auto;
+    }
+    p{
+        text-align:justify;
+    }
+    
+</style>
+
+<div class="row ">
+    <div class="col-lg-12 col-12 p-0">
+        <div class="card rounded-0 mb-0 px-2" style="">
+            <div class="card-header pb-1 alert alert-primary text-center">
+                <div class="card-title ">
+                    <h4 class="mb-0">توضیحات بیشتر</h4>
+                </div>
+            </div>
+            
+           <div class="display-field" class=" col-9 ">
+              @Html.Raw(Model.DescreptionPro)
+             </div>
+            
+        </div>
+    </div>
+</div> 
+
+
+
+
+
+
+
+
+@* /////////////////////////////////////////////////////////////////////////////////////////////////////comment *@
+
+   <div class="col-lg-12 col-12">
+             <div class="d-flex justify-content-start align-items-center mb-1">
+                <p class="ml-auto d-flex align-items-center">
+                  
+              </div>
+            
+              
+                @if (ViewBag.comments != null)
+                {
+                    
+                    
+                     @foreach (var item1 in ViewBag.comments)
+                {
+                 <div class="d-flex justify-content-start align-items-center mb-1 " style="background-color: white;">
+                     @if (item1.image != null)
+                     {
+                          <div class="">
+                  <img src="~/fileupload/@item1.image" alt="Avatar" height="70" width="70">
+                </div>
+                     }else{
+                          <div class="">
+                  <img src="../../icons/user.png" alt="Avatar" height="70" width="70">
+                </div>
+
+                     }
+               
+
+                    <div class="user-page-info card-title cart">
+                  <h6 class="mb-12">@item1.username</h6>
+                  <span class="font-small-3">@item1.Comment</span>
+                </div>
+                </div>
+                }
+
+
+
+
+                }
+               
+                
+               @if (User.Identity.IsAuthenticated)
+               {
+                    <span class="alert alert-success mb-5" id="msg">نظر خود را تبت کنید</span>
+                     <br/>
+               }else
+               {
+                                     <span class="alert alert-success mb-5" id="msg">برای ثبت نظر حتما باید وارد سایت شوید</span>
+                                     <br/>
+
+               }
+             
+            
+              <div  class="form-label-group mb-50">
+                   
+                  <textarea class="form-control" id="comment" rows="3" required placeholder="نظر دادن"></textarea>
+                 
+                 
+              </div>
+              <div class="text-center">
+                  @if (User.Identity.IsAuthenticated)
+                  {
+                        <a style="color: white;"  class="btn btn-md btn-primary text-left mb-5" onclick="sabt()">ثبت نظر </a>
+                        <br/>
+                        
+
+                  }else
+                  {
+                      <a onclick="ref();"  style="color: white;" class="btn btn-md btn-primary text-left mb-5 " >ثبت نظر </a>
+                         <br/>
+                  }
+              </div>
+   </div>
+
+
+<input id="idblog" type="text" value="@Model.Id" style="display: none;">
+
+
+<script>
+
+        
+
+     function sabt()
+      {
+        
+        if (document.getElementById("comment").value !="") 
+        {
+           
+
+            $.ajax({
+                url: "/comment/addproduct?comment=" + document.getElementById("comment").value+"&&id="+document.getElementById("idblog").value,
+                type: "post",
+            }).done(function (result)
+             {
+                if (result == true)
+                 {
+                
+                    $("#msg").text("  نظر شما با موفقیت ثبت شد و منتظر تایید از سوی مدیریت است");
+                   document.getElementById("comment").value="";
+                }
+            });
+        
+        }
+     }
+
+    
+</script>
+<script>
+    function ref()
+    {
+      
+        document.location.href="/login/index";
+    }
+</script>
+
+
+@* ////////////////////////////////////////////////////////////////////////////////////////////////////////////end Commet *@
+
+
+
+
+
+
+
+
+
+
+    
+</section>

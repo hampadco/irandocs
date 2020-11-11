@@ -1,0 +1,29 @@
+@foreach (var item in ViewBag.listp)
+{
+     <section class="row flexbox-container justify-content-center">
+                <div class="col-xl-12 col-md-12 col-12 d-flex justify-content-center px-0">
+                    <div class="card bg-authentication rounded-0 mb-0">
+                        <div class="row m-0">
+                            <div class="col-lg-6  text-center align-self-center">
+                                <img src="~/fileupload/@item.img" alt="branding logo" style="width: 200px;height: 200px;border-radius: 50%;">
+                            </div>
+                            <div class="col-lg-6 col-12 p-0">
+                                <div class="card rounded-0 mb-0 px-2 py-1">
+                                    <div class="card-header pb-1">
+                                        <div class="card-title">
+                                            <p  class="alert alert-success">تبریک میگیم کالای شما اصل است.</p>
+                                            
+                                        </div>
+                                    </div>
+                                    <p class="px-2 mb-2 ">نام کالا:@item.nameproduct</p>
+                                     <p class="px-2 mb-2">تاریخ ثبت:@item.DateCreateOri</p>
+                                   <p class="px-2 mb-0">شماره سریال:@item.NumberProductOri</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+}
+           
+       

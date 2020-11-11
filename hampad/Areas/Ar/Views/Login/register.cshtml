@@ -1,0 +1,74 @@
+@model ViewModels.AdminViewModel.User.Vm_User
+<form action="/login/add" method="POST">
+            <section class="row flexbox-container justify-content-center">
+                <div class="col-xl-8 col-12 d-flex justify-content-center">
+                    <div class="card bg-authentication rounded-0 mb-0 " style="background-image:url('../app-assets/images/icons/sidRight1.png')">
+                        <div class="row m-0">
+                            <div class="col-lg-6  col-12 text-center align-self-center pl-0 pr-3 py-0">
+                                <img src="~/app-assets/images/pages/register.jpg" alt="branding logo">
+                            </div>
+                            <div class="col-lg-6 col-12 p-0">
+                                <div class="card rounded-0 mb-0 p-2">
+                                    <div class="card-header pt-50 pb-1">
+                                        <div class="card-title">
+                                            <h4 class="mb-0">ایجاد حساب کاربری</h4>
+                                        </div>
+                                    </div>
+                                    <p class="px-2">برای ایجاد یک حساب کاربری فرم زیر را پر کنید.</p>
+                                    <div class="card-content">
+                                        <div class="card-body pt-0">
+                                            @if (ViewBag.suc != null)
+                                            {
+                                               <p class="alert  alert-success ">@ViewBag.suc</p>
+                                            }
+                                            @if (ViewBag.err != null)
+                                            {
+                                               <p class="alert  alert-danger ">@ViewBag.err</p>
+                                            }
+                                            <form action="/home/adduser" method="post">
+                                                <div class="form-label-group">
+                                                    <input type="text" asp-for="UserNameUs" class="form-control" placeholder="نام" required="">
+                                                    <label for="inputName">نام و نام خانوادگی</label>
+                                                </div>
+                                                <div class="form-label-group">
+                                                    <input type="text" asp-for="PhoneUs" class="form-control" placeholder="شماره تلفن" required="" maxlength="11" minlength="11">
+                                                    <label for="inputEmail">شماره تلفن</label>
+                                                </div>
+                                                <div class="form-label-group">
+                                                    <input type="password" asp-for="PasswordUs" class="form-control" placeholder="کلمه عبور" required="">
+                                                    <label for="inputPassword">کلمه عبور</label>
+                                                </div>
+                                                <div class="form-label-group">
+                                                    <input type="password" asp-for="repass" class="form-control" placeholder="رمز عبور را تأیید کنید" required="">
+                                                    <label for="inputConfPassword">رمز عبور را تأیید کنید</label>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <div class="col-12">
+                                                        <fieldset class="checkbox">
+                                                            <div class="vs-checkbox-con vs-checkbox-primary">
+                                                                <input type="checkbox" checked="">
+                                                                <span class="vs-checkbox">
+                                                                    <span class="vs-checkbox--check">
+                                                                        <i class="vs-icon feather icon-check"></i>
+                                                                    </span>
+                                                                </span>
+
+                                                                <span class=""> <a href="#" target="_blank">  شرایط و ضوابط</a> را می پذیرم.</span>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                </div>
+                                                <a href="/login/index" class="btn btn-outline-primary float-left btn-inline mb-50">ورود</a>
+                                                <button type="submit" class="btn btn-primary float-right btn-inline mb-50">
+                                                    ثبت نام
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+</form>

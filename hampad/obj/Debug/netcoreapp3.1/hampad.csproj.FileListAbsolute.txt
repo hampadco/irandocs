@@ -1,0 +1,1405 @@
+<<<<<<< HEAD
+=======
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.exe
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.deps.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.dev.json
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.pdb
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.pdb
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.dll
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.pdb
+d:\Web Programming\HampadGit\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.pdb
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csprojAssemblyReference.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfoInputs.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfo.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CoreCompileInputs.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.input.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.output.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorCoreGenerate.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\map.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agency\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agency\list.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\list.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Comment\Acceptede.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Comment\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Comment\Notaccepted.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Experts\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Experts\list.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Financial\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Gallery\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Logo\Index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Message\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Order\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Order\ongoing.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Order\sender.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Originality\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddProduct.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\list.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\PartialMualtiImage.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SocialNetwork\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\DropdownSearch.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\List.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageMulti.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageSingle.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Teaser\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Contact\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\Forget.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\index.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\register.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.Views.pdb
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CopyComplete
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.Manifest.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.xml
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.dll
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.pdb
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.genruntimeconfig.cache
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Gallery\List.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Teaser\List.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\List.cshtml.g.cs
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Financial\List.cshtml.g.cs
+>>>>>>> 2bc8c0a5fc7c03ea7e5dee846d17b3d0703b55eb
+d:\Web Programming\HampadGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Blog\index.cshtml.g.cs
+>>>>>>> 5d5a5850f7f27dd3acedd5420aa81b56024f44fb
+>>>>>>> 761b1fb813de6d85005805cb7236348cfcb076e3
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.exe
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.deps.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.dev.json
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.pdb
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.pdb
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.dll
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.pdb
+g:\.Net Core\hampadco\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.pdb
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csprojAssemblyReference.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfoInputs.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfo.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CoreCompileInputs.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.input.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.output.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorCoreGenerate.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\map.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\agency\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\agency\list.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Baner\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Baner\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\list.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\updateblog.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\Acceptede.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\Notaccepted.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\experts\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\experts\list.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\financial\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\financial\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\gallery\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\gallery\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\logo\Index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\Details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\Detailssnd.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\send.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\ongoing.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\sender.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Originality\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\AddProduct.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\list.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\update.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Profile\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\PartialMualtiImage.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\slider\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\slider\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SocialNetwork\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\DropdownSearch.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageMulti.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageSingle.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\teaser\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\teaser\List.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\users\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Agancy\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Agancy\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Blog\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Blog\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Contact\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Expert\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Expert\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\orgin.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\orgincheck.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\Forget.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\register.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\login_admin\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\Details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\Detailssnd.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\send.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Product\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Product\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Profile\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Teaser\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Teaser\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.Views.pdb
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CopyComplete
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.Manifest.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.xml
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.dll
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.pdb
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.genruntimeconfig.cache
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RayChat\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.exe
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\ViewModels.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\DataLayer.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csprojAssemblyReference.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfoInputs.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.AssemblyInfo.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CoreCompileInputs.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorAssemblyInfo.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.input.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.TagHelpers.output.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorCoreGenerate.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Address\map.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\agency\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\agency\list.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Baner\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Baner\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\list.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\blog\updateblog.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\Acceptede.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\comment\Notaccepted.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\experts\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\experts\list.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\financial\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\financial\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\gallery\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\gallery\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\logo\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\Details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\Detailssnd.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Msg\send.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\ongoing.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\order\sender.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Originality\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\AddProduct.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\list.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\product\update.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Profile\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RayChat\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\PartialMualtiImage.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\slider\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\slider\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SocialNetwork\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\DropdownSearch.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageMulti.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sourcehelp\UploadImageSingle.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\teaser\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\teaser\List.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\users\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Agancy\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Agancy\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Blog\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Blog\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Contact\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Expert\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Expert\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\orgin.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\orgincheck.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\Forget.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Login\register.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\login_admin\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\Details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\Detailssnd.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Msg\send.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Product\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Product\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Profile\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Teaser\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\Teaser\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.RazorTargetAssemblyInfo.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.Views.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.deps.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.runtimeconfig.dev.json
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\bin\Debug\netcoreapp3.1\hampad.Views.pdb
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.csproj.CopyComplete
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.Manifest.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\staticwebassets\hampad.StaticWebAssets.xml
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\hampad.genruntimeconfig.cache
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Agancy\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Agancy\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Blog\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Blog\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Contact\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Expert\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Expert\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Gallery\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Gallery\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\orgin.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\orgincheck.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\Privacy.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\Forget.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\register.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\login_admin\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\Details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\Detailssnd.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\send.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Product\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Product\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Profile\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\Error.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Teaser\details.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Teaser\index.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\_ViewImports.cshtml.g.cs
+c:\Users\Neati\Desktop\7StarGit\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\_ViewStart.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Agancy\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Agancy\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Blog\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Blog\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Contact\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Expert\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Expert\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Gallery\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Gallery\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\Index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\orgin.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\orgincheck.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Home\Privacy.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\Forget.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Login\register.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\login_admin\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\Details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\Detailssnd.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Msg\send.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Product\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Product\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Profile\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\Error.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\_Layout.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Teaser\details.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\Teaser\index.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\_ViewImports.cshtml.g.cs
+g:\.Net Core\hampadco\hampad\hampad\obj\Debug\netcoreapp3.1\Razor\Areas\Ar\Views\_ViewStart.cshtml.g.cs

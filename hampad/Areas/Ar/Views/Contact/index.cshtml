@@ -1,0 +1,269 @@
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
+   
+    <style>
+        #map { height:300px; width:100%; }
+       
+
+    </style>
+
+             <div class="row match-height justify-content-center mt-2  ">
+
+
+                 
+                    <div class="col-lg-10 col-12  text-center">
+                        
+                        
+                        <section id="timeline-card">
+
+
+
+<div class="col-lg-12 col-12 p-0">
+                                <div class="card rounded-0 mb-0 px-2">
+                                    <div class="card-header pb-1">
+                                        <div class="card-title">
+                                            <h4 class="mb-0">ارتباط با ما</h4>
+                                        </div>
+                                    </div>
+                                    <p class="px-2">خوش آمدید،لطفا نظرات  و انتقاداتون  رو برای ما بفرستید.</p>
+                                    <div class="card-content">
+                                        <div class="card-body pt-1">
+                                            <form action="index.html">
+                                                <fieldset class="form-label-group form-group position-relative has-icon-left">
+                                                    <input type="text" class="form-control" id="user-name" placeholder="نام و فامیلی" required="">
+                                                    <div class="form-control-position">
+                                                        <i class="feather icon-user"></i>
+                                                    </div>
+                                                    <label for="user-name">نام کاربری</label>
+                                                </fieldset>
+
+                                                <fieldset class="form-label-group position-relative has-icon-left">
+                                                    <input type="text" class="form-control" id="user-password" placeholder="ایمیل خود را وارد کنید" required="">
+                                                    <div class="form-control-position">
+                                                        <i class="feather icon-mail"></i>
+                                                    </div>
+                                                    <label for="user-password">کلمه عبور</label>
+                                                </fieldset>
+                                                <fieldset class="form-label-group position-relative has-icon-left">
+                                                    <textarea class="form-control" placeholder="لطفا نظرات  و انتقاداتون  رو برای ما بفرستید"></textarea>
+                                                    <div class="form-control-position">
+                                                        <i class="feather icon-mail"></i>
+                                                    </div>
+                                                    <label for="user-password">کلمه عبور</label>
+                                                </fieldset>
+                                                
+                                                <a href="#" class="btn btn-outline-primary float-right  btn-inline waves-effect waves-light">ارسال</a>
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <div class="login-footer">
+                                        <div class="divider">
+                                            <div class="divider-text">یا</div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="row ">
+                                
+                                
+                                @if (ViewBag.address != null)
+                                {
+                                @foreach (var item in ViewBag.address)
+                                {
+                                <div class="col-lg-6 col-sm-12">
+                                    <div class="card">
+
+                                        <div class="card-content">
+                                            <div class="card-body">
+                                                <ul class="activity-timeline timeline-left list-unstyled">
+
+                                                    <li>
+                                                        <div class="timeline-icon bg-warning">
+                                                            <i class="feather icon-check font-medium-2"></i>
+                                                        </div>
+                                                        <div class="timeline-info">
+                                                            <p class="font-weight-bold" style="text-align: right;">
+                                                                شماره تماس های ثابت :</p>
+                                                            <br>
+                                                           
+                                                              <input type="text" value="@item.LocationAd" id="location" style="display:none;">
+                                                            <div class="col-lg-12 d-lg-block  text-center align-self-center px-1 py-0">
+
+
+                                <div class="footer-btn alert alert-primary  ">
+
+                                    <a href="tel:@item.Officetel1Ad" class="btn btn-primary col-12 text-white  waves-effect waves-light"><span class="feather icon-phone-call mr-1"></span> شماره تماس ثابت اول :@item.Officetel1Ad</a>
+                                   @if (@item.Officetel2Ad != null)
+                                                            {
+                                                              <a href="tel:@item.Officetel2Ad" class="btn btn-primary col-12 text-white  waves-effect waves-light mt-2"><span class="feather icon-phone-call mr-1"></span> شماره تماس ثابت اول :@item.Officetel2Ad</a>
+                                                            }
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            
+
+                                                        </div>
+
+                                                    </li>
+
+                                                    <li>
+                                                        <div class="timeline-icon bg-primary">
+                                                            <i class="feather icon-check font-medium-2"></i>
+                                                        </div>
+                                                        <div class="timeline-info">
+                                                            <p class="font-weight-bold" style="text-align: right;">
+                                                                شماره تماس های همراه :</p>
+                                                            <br>
+                                                            <p style="text-align: ;line-height: 50px;font-size: 20px;">
+                                                                <a style="text-align: ;line-height: 50px;font-size: 20px;"
+                                                                    href="tel:@item.Tel1Ad">
+                                                                    <b class="btn btn-primary btn-lg">@item.Tel1Ad</b>
+                                                                    <i class="fa fa-phone"></i>
+                                                                </a>
+                                                                @if (@item.Tel2Ad != null)
+                                                                {
+                                                                <a style="text-align: ;line-height: 50px;font-size: 20px;"
+                                                                    href="tel:@item.Tel2Ad">
+                                                                    <b class="btn btn-primary btn-lg">@item.Tel2Ad</b>
+                                                                    <i class="fa fa-phone"></i>
+                                                                </a>
+                                                                }
+
+
+                                                        </div>
+
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-sm-12">
+                                    <div class="card">
+
+                                        <div class="card-content">
+                                            <div class="card-body">
+                                                <ul class="activity-timeline timeline-left list-unstyled">
+                                                    <li>
+                                                        <div class="timeline-icon bg-success">
+                                                            <i class="feather icon-check font-medium-2"></i>
+                                                        </div>
+                                                        <div class="timeline-info">
+                                                            <p class="font-weight-bold" style="text-align: right;"> آدرس
+                                                                ها :</p>
+                                                           <br>
+
+                                                             <div class="footer-btn alert alert-primary  ">
+
+                                    <a href="" class="btn btn-primary col-12 text-white  waves-effect waves-light"><span class="feather icon-map-pin mr-1" style="line-height: 30px;"></span>   آدرس اول :  @item.FirstAddress</a>
+                                   @if (@item.SecondAddress != null)
+                                                            {
+                                                              <a href="" class="btn btn-primary col-12 text-white  waves-effect waves-light mt-2 " style="line-height: 30px;"><span class="feather icon-map-pin mr-1"></span> آدرس دوم :@item.SecondAddress</a>
+                                                            }
+                                </div>
+
+
+                                                        </div>
+
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                }
+                                }
+
+                            </div>
+                            
+ <div class="col-sm-12 col-12">
+                               <div id="map"></div>
+                            </div>
+                        </section>
+                    </div>
+
+                </div>
+
+                             <script>
+                                  var locationToStringed=document.getElementById('location').value;
+                                 
+var input = locationToStringed.replace('(', '');
+var latlngStr = input.split(",", 2);
+var lat = parseFloat(latlngStr[0]);
+var lng = parseFloat(latlngStr[1]);
+
+                                 debugger
+         // Creating map options
+         var mapOptions = {
+            center: [lat,lng],
+            zoom: 12
+         }
+         // Creating a map object
+         var map = new L.map('map', mapOptions);
+
+         // Creating a Layer object
+         var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+         // Adding layer to the map
+         map.addLayer(layer);
+
+         // Creating a Marker
+         var markerOptions = {
+            title: "MyLocation",
+            clickable: true,
+            draggable: false
+         }
+         // Creating a marker
+         var marker = L.marker([lat,lng], markerOptions);
+
+         // Adding marker to the map
+         marker.addTo(map);
+
+
+        
+
+
+
+      </script>
+
+
+
